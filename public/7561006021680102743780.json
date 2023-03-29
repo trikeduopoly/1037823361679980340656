@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887133716505",
+    "project_id": "skin-craft-mod",
+    "storage_bucket": "skin-craft-mod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887133716505:android:95a9808d0b565236446a88",
+        "android_client_info": {
+          "package_name": "com.impostersamongus.addonsmodsmaps.theskinfor.mineoncrafters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887133716505-rqr654nvu6b71g66ks1lu7b8prr4btn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoH-p69wa7jDtUlGC0fru4aeEGL8E_Tzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887133716505-rqr654nvu6b71g66ks1lu7b8prr4btn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
